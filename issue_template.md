@@ -1,33 +1,20 @@
-<!--- (**********************************)
-      (** Fill in the following fields **)
-      (**********************************) 
-Issues are for problem only, NOT for asking questions.
---->
-
 **Description:**
 
-CHANGEME Description of the problem or issue here.
+Cannot talk to Thrall after killing Captain Skarloc so can't start the second phase of Escape From Durnholde.
 
 **Current behaviour:**
 
-CHANGEME Tell us what happens.
-If this is a crash, post the crashlog (upload to https://gist.github.com/).
+Killed Captain Skarloc and Thrall just stands looking towards the keep uninteractable.
 
 **Expected behaviour:**
 
-CHANGEME Tell us what should happen instead.
+After Captain Skarloc dies there should be a dialogue option with Thrall which makes him mount up and start moving towards Tarren Mill.
 
 **Steps to reproduce the problem:**
 
-CHANGEME
-1. Step 1 include entries of affected creatures / items / quests with a link to the relevant wowhead-like page.  
-2. Step 2
-3. Step 3
-
-Be very specific here! Even if the problem seems general, do tell which spells did you use, on what creature, in which conditions. (Very often the problem is only happening in a specific context)
+Killed Captain Skarloc with a group consisting of Mage, Warrior, Priest, Shaman and Rogue. Not sure if it is unusual but Thrall was running from group to group on the way to the boss, it seemed faster than I recall.
 
  **rev. hash/commit:** 	
 
- CHANGEME	
-Do a `.server info` in game and copy/screenshot the first line.  	
-For example: `Sunstrider rev. 10455 2019-01-09 11:31:41 +0100 (my branch) (Win64, RelWithDebInfo, Static) (worldserver)`
+ This was done approx 40 mins after bug.	
+Sunstrider rev. 11132 (9ad389c8b78a+) 2019-05-02 17:04:02 +0200 (master branch) (Unix, RelWithDebInfo, Static)
